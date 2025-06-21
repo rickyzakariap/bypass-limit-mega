@@ -1,6 +1,6 @@
 # 🧊 Mega.nz Direct Link Generator (Glassmorphism Edition)
 
-A beautiful, responsive web app to generate direct download links for Mega.nz files. Features a modern glassmorphism UI, mobile-first design, and fast link generation via a public API.
+A responsive web app to generate direct download links for Mega.nz files. Features a modern glassmorphism UI, mobile-first design, and fast link generation via a public API.
 
 ---
 
