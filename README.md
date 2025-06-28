@@ -41,6 +41,6 @@ A responsive web app to generate direct download links for Mega.nz files. Featur
 
 ---
 
-## 📄 License
+## 📄 License 
 
 MIT
