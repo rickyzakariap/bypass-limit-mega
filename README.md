@@ -28,12 +28,6 @@ A responsive web app to generate direct download links for Mega.nz files. Featur
 
 ---
 
-## 📸 Screenshot
-
-<!-- Add a screenshot here -->
-
----
-
 ## 🙏 Credits
 
 - Inspired by [thecapt1917's Mega Direct Link Generator](https://thecapt1917.github.io/meganz-direct-link/)
@@ -44,3 +38,7 @@ A responsive web app to generate direct download links for Mega.nz files. Featur
 ## 📄 License 
 
 MIT
+
+---
+
+[![wakatime](https://wakatime.com/badge/github/rickyzakariap/bypass-limit-mega.svg)](https://wakatime.com/badge/github/rickyzakariap/bypass-limit-mega)
